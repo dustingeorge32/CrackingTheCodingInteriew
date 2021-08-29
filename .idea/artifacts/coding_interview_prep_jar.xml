@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="coding-interview-prep:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/coding_interview_prep_jar</output-path>
+    <root id="archive" name="coding-interview-prep.jar">
+      <element id="module-output" name="coding-interview-prep" />
+    </root>
+  </artifact>
+</component>
