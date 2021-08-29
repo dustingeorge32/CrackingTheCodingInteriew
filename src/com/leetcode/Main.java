@@ -21,9 +21,9 @@ public class Main {
         //Solution iterate a character array if the element is a space
         //replace the array with '%20' - not challenging
 
-        String word = "Tact Coa";
-        boolean isPalindromePerm = arraysAndStrings.isPalineDromePerm(word);
-        System.out.println(isPalindromePerm);
+//        String word = "Tact Coa";
+//        boolean isPalindromePerm = arraysAndStrings.isPalineDromePerm(word);
+//        System.out.println(isPalindromePerm);
 
     }
 
